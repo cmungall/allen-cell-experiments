@@ -1,0 +1,10 @@
+Rorb-IRES2-Cre-Strong expression in the zonal layer of the superior colliculus and subregions of thalamus. Dense, patchy expression in layer 4 and sparse expression in layer 5 and 6 in cortex. Also expressed in trigeminal nucleus and small patches of cells in cerebellum. View transgenic characterization.
+Scnn1a-Tg2-Cre-Reporter expression in sparse and/or restricted regions of cortex (layer 4), thalamus, midbrain, medulla, pons, and cerebellum. View transgenic characterization.
+Scnn1a-Tg3-Cre-Enriched in cortical layer 4 and in restricted populations within cortex, thalamus, and in cerebellum. View transgenic characterization.
+Nr5a1-Cre-Expressed in restricted populations within the hypothalamus (ventromedial hypothalamus), and in cortical layer 4. View transgenic characterization.
+Rbp4-Cre_KL100-Enriched in cortical layer 5 and the dentate gyrus. View transgenic characterization.
+Ntsr1-Cre-Specific to cortical layer 6 neurons. View transgenic characterization.
+Sst-IRES-Cre-Strong scattered expression throughout the brain. Localized areas of enrichment include restricted populations in thalamus, amygdala, midbrain, hindbrain, cortical subplate, and Purkinje cell layer. View transgenic characterization.
+Pvalb-IRES-Cre-Expressed in restricted and/or sparse populations within the cerebellum, medulla, pons, midbrain, cortex, hippocampus, thalamus, and striatum. View transgenic characterization.
+Htr3a-Cre_NO152-Reporter expression is detected in a subset of cortical interneurons. Enrichment is also detected in restricted populations within olfactory areas, pallidum, hypothalamus, pons, medulla, and cerebellum. View transgenic characterization.
+Gad2-IRES-Cre-Specific to GABAergic neurons. Enriched in the striatum, piriform cortex, and within restricted populations in the thalamus, hypothalamus, cerebellum, olfactory areas, and GABAergic interneurons of the cortex. View transgenic characterization.

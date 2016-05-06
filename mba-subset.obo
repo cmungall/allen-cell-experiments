@@ -1,0 +1,304 @@
+format-version: 1.2
+ontology: mba
+synonymtypedef: ABBREVIATION "abbreviation"
+
+[Term]
+id: MBA:1011
+name: dorsal auditory area
+alt_id: MBA:AUDd
+synonym: "AUDd" RELATED ABBREVIATION []
+is_a: UBERON:0002616 
+relationship: part_of MBA:247 ! auditory areas
+property_value: identifier "1011" xsd:int
+
+[Term]
+id: MBA:22
+name: posterior parietal association areas
+alt_id: MBA:PTLp
+synonym: "PTLp" RELATED ABBREVIATION []
+is_a: UBERON:0002616 
+relationship: part_of MBA:315 ! isocortex
+property_value: identifier "22" xsd:int
+
+[Term]
+id: MBA:233
+name: anterolateral visual area, layer 5
+alt_id: MBA:VISal5
+synonym: "VISal5" RELATED ABBREVIATION []
+is_a: UBERON:0002616 
+relationship: part_of MBA:402 ! anterolateral visual area
+property_value: identifier "233" xsd:int
+
+[Term]
+id: MBA:247
+name: auditory areas
+alt_id: MBA:AUD
+synonym: "AUD" RELATED ABBREVIATION []
+is_a: UBERON:0002616 
+relationship: part_of MBA:315 ! isocortex
+property_value: identifier "247" xsd:int
+
+[Term]
+id: MBA:257
+name: posteromedial visual area, layer 6a
+alt_id: MBA:VISpm6a
+synonym: "VISpm6a" RELATED ABBREVIATION []
+is_a: UBERON:0002616 
+relationship: part_of MBA:533 ! posteromedial visual area
+property_value: identifier "257" xsd:int
+
+[Term]
+id: MBA:312782616
+name: rostrolateral area, layer 5
+alt_id: MBA:VISrl5
+synonym: "VISrl5" RELATED ABBREVIATION []
+is_a: UBERON:0002616 
+relationship: part_of MBA:417 ! rostrolateral visual area
+property_value: identifier "312782616" xsd:int
+
+[Term]
+id: MBA:312782628
+name: postrhinal area
+alt_id: MBA:VISpor
+synonym: "VISpor" RELATED ABBREVIATION []
+is_a: UBERON:0002616 
+relationship: part_of MBA:669 ! visual areas
+property_value: identifier "312782628" xsd:int
+
+[Term]
+id: MBA:312782640
+name: postrhinal area, layer 4
+alt_id: MBA:VISpor4
+synonym: "VISpor4" RELATED ABBREVIATION []
+is_a: UBERON:0002616 
+relationship: part_of MBA:312782628 ! postrhinal area
+property_value: identifier "312782640" xsd:int
+
+[Term]
+id: MBA:315
+name: isocortex
+alt_id: MBA:Isocortex
+synonym: "Isocortex" RELATED ABBREVIATION []
+is_a: UBERON:0002616 
+relationship: part_of MBA:695 ! cortical plate
+property_value: identifier "315" xsd:int
+
+[Term]
+id: MBA:33
+name: primary visual area, layer 6a
+alt_id: MBA:VISp6a
+synonym: "VISp6a" RELATED ABBREVIATION []
+is_a: UBERON:0002616 
+relationship: part_of MBA:385 ! primary visual area
+property_value: identifier "33" xsd:int
+
+[Term]
+id: MBA:385
+name: primary visual area
+alt_id: MBA:VISp
+synonym: "VISp" RELATED ABBREVIATION []
+is_a: UBERON:0002616 
+relationship: part_of MBA:669 ! visual areas
+property_value: identifier "385" xsd:int
+
+[Term]
+id: MBA:394
+name: anteromedial visual area
+alt_id: MBA:VISam
+synonym: "VISam" RELATED ABBREVIATION []
+is_a: UBERON:0002616 
+relationship: part_of MBA:669 ! visual areas
+property_value: identifier "394" xsd:int
+
+[Term]
+id: MBA:402
+name: anterolateral visual area
+alt_id: MBA:VISal
+synonym: "VISal" RELATED ABBREVIATION []
+is_a: UBERON:0002616 
+relationship: part_of MBA:669 ! visual areas
+property_value: identifier "402" xsd:int
+
+[Term]
+id: MBA:409
+name: lateral visual area
+alt_id: MBA:VISl
+synonym: "VISl" RELATED ABBREVIATION []
+is_a: UBERON:0002616 
+relationship: part_of MBA:669 ! visual areas
+property_value: identifier "409" xsd:int
+
+[Term]
+id: MBA:417
+name: rostrolateral visual area
+alt_id: MBA:VISrl
+synonym: "VISrl" RELATED ABBREVIATION []
+is_a: UBERON:0002616 
+relationship: part_of MBA:22 ! posterior parietal association areas
+property_value: identifier "417" xsd:int
+
+[Term]
+id: MBA:425
+name: posterolateral visual area
+alt_id: MBA:VISpl
+synonym: "VISpl" RELATED ABBREVIATION []
+is_a: UBERON:0002616 
+relationship: part_of MBA:669 ! visual areas
+property_value: identifier "425" xsd:int
+
+[Term]
+id: MBA:433
+name: anteromedial visual area, layer 5
+alt_id: MBA:VISam5
+synonym: "VISam5" RELATED ABBREVIATION []
+is_a: UBERON:0002616 
+relationship: part_of MBA:394 ! anteromedial visual area
+property_value: identifier "433" xsd:int
+
+[Term]
+id: MBA:501
+name: posteromedial visual area, layer 4
+alt_id: MBA:VISpm4
+synonym: "VISpm4" RELATED ABBREVIATION []
+is_a: UBERON:0002616 
+relationship: part_of MBA:533 ! posteromedial visual area
+property_value: identifier "501" xsd:int
+
+[Term]
+id: MBA:533
+name: posteromedial visual area
+alt_id: MBA:VISpm
+synonym: "VISpm" RELATED ABBREVIATION []
+is_a: UBERON:0002616 
+relationship: part_of MBA:669 ! visual areas
+property_value: identifier "533" xsd:int
+
+[Term]
+id: MBA:567
+name: cerebrum
+alt_id: MBA:CH
+synonym: "CH" RELATED ABBREVIATION []
+is_a: UBERON:0002616 
+relationship: part_of MBA:8 ! basic cell groups and regions
+property_value: identifier "567" xsd:int
+
+[Term]
+id: MBA:573
+name: lateral visual area, layer 4
+alt_id: MBA:VISl4
+synonym: "VISl4" RELATED ABBREVIATION []
+is_a: UBERON:0002616 
+relationship: part_of MBA:409 ! lateral visual area
+property_value: identifier "573" xsd:int
+
+[Term]
+id: MBA:613
+name: lateral visual area, layer 5
+alt_id: MBA:VISl5
+synonym: "VISl5" RELATED ABBREVIATION []
+is_a: UBERON:0002616 
+relationship: part_of MBA:409 ! lateral visual area
+property_value: identifier "613" xsd:int
+
+[Term]
+id: MBA:669
+name: visual areas
+alt_id: MBA:VIS
+synonym: "VIS" RELATED ABBREVIATION []
+is_a: UBERON:0002616 
+relationship: part_of MBA:315 ! isocortex
+property_value: identifier "669" xsd:int
+
+[Term]
+id: MBA:678
+name: dorsal auditory area, layer 4
+alt_id: MBA:AUDd4
+synonym: "AUDd4" RELATED ABBREVIATION []
+is_a: UBERON:0002616 
+relationship: part_of MBA:1011 ! dorsal auditory area
+property_value: identifier "678" xsd:int
+
+[Term]
+id: MBA:688
+name: cerebral cortex
+alt_id: MBA:CTX
+synonym: "CTX" RELATED ABBREVIATION []
+is_a: UBERON:0002616 
+relationship: part_of MBA:567 ! cerebrum
+property_value: identifier "688" xsd:int
+
+[Term]
+id: MBA:695
+name: cortical plate
+alt_id: MBA:CTXpl
+synonym: "CTXpl" RELATED ABBREVIATION []
+is_a: UBERON:0002616 
+relationship: part_of MBA:688 ! cerebral cortex
+property_value: identifier "695" xsd:int
+
+[Term]
+id: MBA:721
+name: primary visual area, layer 4
+alt_id: MBA:VISp4
+synonym: "VISp4" RELATED ABBREVIATION []
+is_a: UBERON:0002616 
+relationship: part_of MBA:385 ! primary visual area
+property_value: identifier "721" xsd:int
+
+[Term]
+id: MBA:74
+name: lateral visual area, layer 6a
+alt_id: MBA:VISl6a
+synonym: "VISl6a" RELATED ABBREVIATION []
+is_a: UBERON:0002616 
+relationship: part_of MBA:409 ! lateral visual area
+property_value: identifier "74" xsd:int
+
+[Term]
+id: MBA:778
+name: primary visual area, layer 5
+alt_id: MBA:VISp5
+synonym: "VISp5" RELATED ABBREVIATION []
+is_a: UBERON:0002616 
+relationship: part_of MBA:385 ! primary visual area
+property_value: identifier "778" xsd:int
+
+[Term]
+id: MBA:8
+name: basic cell groups and regions
+alt_id: MBA:grey
+synonym: "grey" RELATED ABBREVIATION []
+is_a: UBERON:0002616 
+relationship: part_of MBA:997 ! root
+property_value: identifier "8" xsd:int
+
+[Term]
+id: MBA:821
+name: primary visual area, layer 2/3
+alt_id: MBA:VISp2/3
+synonym: "VISp2/3" RELATED ABBREVIATION []
+is_a: UBERON:0002616 
+relationship: part_of MBA:385 ! primary visual area
+property_value: identifier "821" xsd:int
+
+[Term]
+id: MBA:869
+name: posterolateral visual area, layer 4
+alt_id: MBA:VISpl4
+synonym: "VISpl4" RELATED ABBREVIATION []
+is_a: UBERON:0002616 
+relationship: part_of MBA:425 ! posterolateral visual area
+property_value: identifier "869" xsd:int
+
+[Term]
+id: MBA:997
+name: root
+alt_id: MBA:root
+synonym: "root" RELATED ABBREVIATION []
+is_a: UBERON:0002616 
+property_value: identifier "997" xsd:int
+
+[Typedef]
+id: part_of
+xref: BFO:0000050
+
